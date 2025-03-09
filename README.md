@@ -13,16 +13,16 @@ The images uesd are taken from INSAT-3DR Asia Sector Infrared2(BT) images and Wi
 All the images are taken from ISRO's website https://mosdac.gov.in/gallery/  
 
 ### Preprocessing
-#### Cloud Masking
+##### Cloud Masking
 
-#### Mapping EOS-06 to INSAT-3DR
+##### Mapping EOS-06 to INSAT-3DR
 
-#### Forming Wind Tensors
+##### Forming Wind Tensors
 
 ### Model Definition
-#### Variational AutoEncoders
+##### Variational AutoEncoders
 
-#### ConvLSTM
+##### ConvLSTM
 
 ## Installation & Usage
 

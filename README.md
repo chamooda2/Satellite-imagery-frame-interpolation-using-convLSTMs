@@ -80,5 +80,4 @@ Pre-trained models are available in `Billi Gang/models/`:
 ## Contributing
 Contributions are welcome! Please ensure code follows the project structure and conventions.
 
-#PPT
 We have also uploaded a PPT that explains the concept and thinking behind the project

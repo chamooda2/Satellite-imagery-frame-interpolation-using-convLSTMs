@@ -6,6 +6,13 @@ This model enhances video generation from satellite imagery by incorporating win
 
 https://github.com/user-attachments/assets/7077a1a4-5ac7-41cf-8886-4760308ef649
 
+
+Results After Successive Interpolations:
+https://github.com/user-attachments/assets/c7281f23-51a1-4dda-bb8d-f626dfea7fe6
+
+
+
+Outputs after multiple interpolations look like this:
 ## Project Overview
 
 FEIN combines satellite imagery with meteorological data to predict realistic cloud movement and frame interpolation in video sequences. The system uses Variational Autoencoders (VAE) and Convolutional LSTM (ConvLSTM) networks to learn spatial-temporal patterns in cloud dynamics.
